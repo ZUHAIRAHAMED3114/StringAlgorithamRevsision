@@ -1,0 +1,10 @@
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\DecemberInterviePreparation\Algoritham\DynamicProgramming\Algortitham\bin\Debug\Algortitham.exe.config
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\DecemberInterviePreparation\Algoritham\DynamicProgramming\Algortitham\bin\Debug\Algortitham.exe
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\DecemberInterviePreparation\Algoritham\DynamicProgramming\Algortitham\bin\Debug\Algortitham.pdb
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\DecemberInterviePreparation\Algoritham\DynamicProgramming\Algortitham\obj\Debug\Algortitham.csproj.AssemblyReference.cache
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\DecemberInterviePreparation\Algoritham\DynamicProgramming\Algortitham\obj\Debug\Algortitham.csproj.CoreCompileInputs.cache
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\DecemberInterviePreparation\Algoritham\DynamicProgramming\Algortitham\obj\Debug\Algortitham.exe
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\DecemberInterviePreparation\Algoritham\DynamicProgramming\Algortitham\obj\Debug\Algortitham.pdb
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\DecemberInterviePreparation\Algoritham\DynamicProgramming\Algortitham\bin\Debug\StringProblems.dll
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\DecemberInterviePreparation\Algoritham\DynamicProgramming\Algortitham\bin\Debug\StringProblems.pdb
+C:\Users\shaik zuhair ahamed\OneDrive\Desktop\DecemberInterviePreparation\Algoritham\DynamicProgramming\Algortitham\obj\Debug\Algortitham.csproj.CopyComplete
